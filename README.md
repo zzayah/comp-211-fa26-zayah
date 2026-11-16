@@ -38,6 +38,9 @@ As for application, RLE is used in some image formats, including PDF and in medi
 ### Reference
 
 ["Run-length encoding" (via Wikipedia)](https://en.wikipedia.org/wiki/Run-length_encoding)
+
 ["Kolakoski sequence" (via Wikipedia)](https://en.wikipedia.org/wiki/Kolakoski_sequence)
+
 ["Chapter 3 - Compression" (via MIT OpenCourseWare)](https://ocw.mit.edu/courses/6-050j-information-and-entropy-spring-2008/9f67d1d414e446c9b55925ab92c17c15_MIT6_050JS08_chapter3.pdf)
+
 ["Compression - Run Length Encoding" (via Kansas State University)](https://textbooks.cs.ksu.edu/cs-zero/iii-topics/15-compression-error-checking/01-rle/)
